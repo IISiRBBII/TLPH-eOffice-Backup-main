@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Github\TLPH-eOffice-Again\build\windows\x64\CMakeFiles\5f3184c3482b57b7ceeb6a57d8ea1a8f\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Github\TLPH-eOffice-Again\build\windows\x64\CMakeFiles\e221cf11599e531a7979e04cb76a16ce\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Github\TLPH-eOffice-Again\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\Github\TLPH-eOffice-Again\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0FBAA727-C46E-3BAC-8573-A566F7712A86}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

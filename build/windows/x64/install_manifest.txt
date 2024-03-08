@@ -1,0 +1,14 @@
+E:/Github/TLPH-eOffice-Again/build/windows/x64/runner/Debug/data/icudtl.dat
+E:/Github/TLPH-eOffice-Again/build/windows/x64/runner/Debug/flutter_windows.dll
+E:/Github/TLPH-eOffice-Again/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+E:/Github/TLPH-eOffice-Again/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+E:/Github/TLPH-eOffice-Again/build/windows/x64/runner/Debug/data/flutter_assets/assets/fonts/Mitr-Regular.ttf
+E:/Github/TLPH-eOffice-Again/build/windows/x64/runner/Debug/data/flutter_assets/assets/images/logo.png
+E:/Github/TLPH-eOffice-Again/build/windows/x64/runner/Debug/data/flutter_assets/assets/images/profile.jpg
+E:/Github/TLPH-eOffice-Again/build/windows/x64/runner/Debug/data/flutter_assets/assets/images/profile.png
+E:/Github/TLPH-eOffice-Again/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+E:/Github/TLPH-eOffice-Again/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+E:/Github/TLPH-eOffice-Again/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+E:/Github/TLPH-eOffice-Again/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+E:/Github/TLPH-eOffice-Again/build/windows/x64/runner/Debug/data/flutter_assets/packages/timezone/data/latest_all.tzf
+E:/Github/TLPH-eOffice-Again/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

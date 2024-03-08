@@ -1,0 +1,32 @@
+name: eOffice
+description: "e-Office"
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.3.0-279.0.dev <4.0.0"
+
+dependencies:
+  calendar_view: ^1.0.4
+  flutter:
+    sdk: flutter
+  intl: ^0.19.0
+  syncfusion_flutter_calendar: ^24.2.4
+  uuid: ^4.3.3
+  just_the_tooltip: ^0.0.12
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
+  flutter_test:
+    sdk: flutter
+  sidebarx: ^0.16.3
+
+flutter:
+  assets:
+    - assets/images/
+  fonts:
+    - family: Mitr
+      fonts:
+        - asset: assets/fonts/Mitr-Regular.ttf
+
+  uses-material-design: true
